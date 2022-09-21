@@ -12,6 +12,12 @@
 
             LinqExample linqExample = new LinqExample();
             linqExample.Run();
+
+            LambdaExample lambdaExample = new LambdaExample();
+            lambdaExample.Run();
+
+            ThreadExample threadExample = new ThreadExample();
+            threadExample.Run();
         }
     }
 }

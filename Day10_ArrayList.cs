@@ -1,5 +1,6 @@
 using System.Collections;
 
+///<summary> Day 10: C# 泛型 (Generic) 概念的 ArrayList 範例 </summary>
 public class ArrayListExample : IExample
 {
     public void Run()

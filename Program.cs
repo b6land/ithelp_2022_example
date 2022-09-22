@@ -18,6 +18,9 @@
 
             ThreadExample threadExample = new ThreadExample();
             threadExample.Run();
+
+            EventExample eventExample = new EventExample();
+            eventExample.Run();
         }
     }
 }

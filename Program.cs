@@ -21,6 +21,9 @@
 
             EventExample eventExample = new EventExample();
             eventExample.Run();
+
+            DllExample dllExample = new DllExample();
+            dllExample.Run();
         }
     }
 }

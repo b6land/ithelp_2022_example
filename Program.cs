@@ -19,6 +19,9 @@
             ThreadExample threadExample = new ThreadExample();
             threadExample.Run();
 
+            TaskExample taskExample = new TaskExample();
+            taskExample.Run();
+
             EventExample eventExample = new EventExample();
             eventExample.Run();
 

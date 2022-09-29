@@ -24,6 +24,9 @@
 
             DllExample dllExample = new DllExample();
             dllExample.Run();
+
+            ReflectionExample reflectionExample = new ReflectionExample();
+            reflectionExample.Run();
         }
     }
 }
